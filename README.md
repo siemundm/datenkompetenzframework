@@ -1,2 +1,2 @@
-# datenkompetenzframework
+# Datenkompetenzframework
 QUADRIGA Datenkompetenzframework
